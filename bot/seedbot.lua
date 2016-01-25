@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users ={,161130739,138012635,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -230,10 +230,7 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@KinG_SuPeR_AdMiN_SHIELD [Founder]
 
 Special thanks to
 awkward_potato
@@ -424,6 +421,8 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
+
+Help By : 💀รհﻨεlժ💀 ™
 
 ]]
   }

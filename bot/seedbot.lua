@@ -227,7 +227,7 @@ function create_config( )
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/SHIELDPOWER/Shield-power.git
 
 Admins
 @KinG_SuPeR_AdMiN_SHIELD [Founder]

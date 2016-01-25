@@ -224,7 +224,7 @@ function create_config( )
     sudo_users ={,161130739,138012635,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[shieldbot - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/SHIELDPOWER/Shield-power.git

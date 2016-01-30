@@ -231,6 +231,8 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SHIELDPOWER/Shield-power.git
 
 
+You can apply for the Group to the directors robot Thank
+
 Admins
 @KinG_SuPeR_AdMiN_SHIELD [Founder]
 @j_a_c_k_k_c_a_j [manager]

@@ -224,23 +224,17 @@ function create_config( )
     sudo_users ={,161130739,138012635,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[shieldbot - Open Source
+    about_text = [[shieldbot anti spam v1
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/SHIELDPOWER/Shield-power.git
 
 Admins
 @KinG_SuPeR_AdMiN_SHIELD [Founder]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@j_a_c_k_k_c_a_j [manager]
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@tel_shield
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -423,7 +417,6 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 Help By : 💀รհﻨεlժ💀 ™
-
 ]]
   }
   serialize_to_file(config, './data/config.lua')

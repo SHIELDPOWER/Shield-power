@@ -223,11 +223,13 @@ function create_config( )
     },
     sudo_users ={,161130739,138012635,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
+    realm = {88881557},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[shieldbot anti spam v1
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/SHIELDPOWER/Shield-power.git
+
 
 Admins
 @KinG_SuPeR_AdMiN_SHIELD [Founder]

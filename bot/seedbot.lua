@@ -379,6 +379,12 @@ create/revoke your group link
 !link
 returns group link
 
+!linkpv
+returns group link in your pv [when you send bot 15 stickers]
+
+!tex 
+return text to photo
+
 !owner
 returns group owner id
 

@@ -273,6 +273,9 @@ Get a file of members in group/realm
 !type
 Get group type
 
+!plugins
+list show plugins
+
 !kill chat [GroupID]
 Kick all memebers and delete group
 

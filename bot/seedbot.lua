@@ -403,6 +403,9 @@ Save <text> as [value]
 !get [value]
 Returns text of [value]
 
+!echo (text)
+send your text
+
 !clean [modlist|rules|about]
 Will clear [modlist|rules|about] and set it to nil
 
